@@ -1,3 +1,4 @@
+canonifyURLs = true
 baseURL = "https://kkstill.github.io/"
 languageCode = "zh-cn"
 title = "费曼读"
