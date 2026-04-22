@@ -1,0 +1,21 @@
+baseURL = "https://kkstill.github.io/"
+languageCode = "zh-cn"
+title = "费曼读"
+theme = "PaperMod"
+defaultContentLanguage = "zh"
+
+[params]
+  homeInfoParams = {Title = "费曼读", Content = "找值得一读的书，活值得一过的生活。我们一起。"}
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 2
